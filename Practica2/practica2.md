@@ -25,7 +25,7 @@ Revisamos la carpeta /var/www/html/ en nuestra maquina2 y observamos que tenemos
 **-Ahora pasaremos a automatizar el proceso:**  
 Para esto programaremos una tarea automatica con la herramienta crontab  
 Editamos el archivo /etc/crontab agregando la siguiente linea:  
-*/5 * * * *		root	rsync -avz -e ssh root@192.168.1.100:/var/www/html/ /var/www/html/  
+*/1 * * * *		root	rsync -avz -e ssh root@192.168.1.100:/var/www/html/ /var/www/html/  
 
 
 
