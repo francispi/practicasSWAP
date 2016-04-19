@@ -1,0 +1,20 @@
+<p>TEMA 4</p>
+
+
+<pregunta>
+  <enunciado>Un balanceador de carga:</enunciado>
+  <opcionA>Es un puente entre la red y los servidores finales</opcionA>
+  <opcionB>Puede manejar los protocolos de alto nivel</opcionB>
+  <opcionC>Puede manejar los protocolos de nivel de red</opcionC>
+  <opcionD>Todas las anteriores son correctas</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿Cúal opcion de redirección crees que es la más adecuada?</enunciado>
+  <opcionA>Redirección con JavaScript</opcionA>
+  <opcionB>Redirección con PHP</opcionB>
+  <opcionC>Redirección básica con HTML</opcionC>
+  <opcionD>Todas las anteriores son correctas</opcionD>
+  <solucion>B</solucion>
+</pregunta>

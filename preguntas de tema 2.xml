@@ -1,0 +1,19 @@
+<p>TEMA 2</p>
+
+<pregunta>
+  <enunciado>¿Cómo se consigue mejorar la disponibilidad de una granja web?</enunciado>
+  <opcionA>Teniendo el máximo de tiempo el sistema caído</opcionA>
+  <opcionB>Los tiempo de caida programados han de ser lo más extensos posibles</opcionB>
+  <opcionC>El tiempo de caida no programado debe ser el menor posible</opcionC>
+  <opcionD>Usar subsistemas redundantes y monitorizarlos para mejorar la disponibilidad del sistema.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Cuándo hablamos de incrementar la RAM, CPU, disco de un servidor; estamos hablando de:</enunciado>
+  <opcionA>Una ampliación oblicua</opcionA>
+  <opcionB>Una ampliacion horizontal</opcionB>
+  <opcionC>Una ampliacion vertical</opcionC>
+  <opcionD>Una ampliacion oblicua-vertical</opcionD>
+  <solucion>C</solucion>
+</pregunta>

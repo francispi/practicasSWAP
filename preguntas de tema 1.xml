@@ -1,0 +1,20 @@
+<p>TEMA 1</p>
+
+<pregunta>
+  <enunciado>¿Que se define por escalabilidad de una granja web?</enunciado>
+  <opcionA>Propiedad deseable de un sistema que indica su habilidad para reaccionar y adaptarse sin perder calidad</opcionA>
+  <opcionB>Capacidad de dar soporte a un numero creciente de usuarios</opcionB>
+  <opcionC>Capacidad del sistema informático de cambiar su tamaño o configuración para adaptarse a las circunstancias cambiantes</opcionC>
+  <opcionD>Todas las anteriores son correctas</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+
+<pregunta>
+  <enunciado>¿Qué desventajas tiene montar una granja web?</enunciado>
+  <opcionA>Es escalable y tiene alta disponibilidad</opcionA>
+  <opcionB>No se resuelven los problemas derivados de un alto trafico</opcionB>
+  <opcionC>Tiene complejidad en la instalacion y configuracion</opcionC>
+  <opcionD>Es fácil y rapida de montar</opcionD>
+  <solucion>C</solucion>
+</pregunta>

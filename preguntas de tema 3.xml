@@ -1,0 +1,20 @@
+<p>TEMA 3</p>
+
+
+<pregunta>
+  <enunciado>¿Qué alternativa crees que es la mas segura para conectar una granja web a otras redes?</enunciado>
+  <opcionA>Configuración sin DMZ</opcionA>
+  <opcionB>Configuración de DMZ simple</opcionB>
+  <opcionC>Configuración de DMZ tradicional</opcionC>
+  <opcionD>Configuración de DMZ doble</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Una doble conexión al fron-rail y back-rail:</enunciado>
+  <opcionA>Configuración para servidores HTTP, SMTP, POP3, FTP, etc</opcionA>
+  <opcionB>Requiere doble tarjeta de red</opcionB>
+  <opcionC>Configuración para servidores de BD o aplicaciones</opcionC>
+  <opcionD>Los servicios ofrecidos quedan aislados</opcionD>
+  <solucion>B</solucion>
+</pregunta>
