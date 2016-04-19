@@ -11,10 +11,10 @@
 </pregunta>
 
 <pregunta>
-  <enunciado>緾鷄l opcion de redirecci髇 crees que es la m醩 adecuada?</enunciado>
-  <opcionA>Redirecci髇 con JavaScript</opcionA>
-  <opcionB>Redirecci髇 con PHP</opcionB>
-  <opcionC>Redirecci髇 b醩ica con HTML</opcionC>
+  <enunciado>驴C煤al opcion de redirecci贸n crees que es la m谩s adecuada?</enunciado>
+  <opcionA>Redirecci贸n con JavaScript</opcionA>
+  <opcionB>Redirecci贸n con PHP</opcionB>
+  <opcionC>Redirecci贸n b谩sica con HTML</opcionC>
   <opcionD>Todas las anteriores son correctas</opcionD>
   <solucion>B</solucion>
-</pregunta>
+</pregunta> 
